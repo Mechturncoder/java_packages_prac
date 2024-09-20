@@ -1,0 +1,10 @@
+Use appropriate collections to store Songs, Song has serialno. , title, set of artist and release year
+On the collections of Song perform following
+
+1. Display list of song
+2. Sort song by title
+3. Sort songs for release year
+4. Search song by title
+5. Create list of songs released in current year
+6. Create a list of songs by specific artist
+7. create a listing to show song title and release year
